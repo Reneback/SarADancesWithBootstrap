@@ -1,0 +1,22 @@
+.dancers{
+
+	padding: 50px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+body{
+	background-color: black;
+	color: white;
+}
+.card {
+	color: black;
+}
+h1 {
+	float: right;
+}
+
+nav a  {
+	color: white;
+}
